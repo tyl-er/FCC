@@ -1,0 +1,60 @@
+.div0 {
+  background-color: #FFE546;
+  text-align: center;
+}
+
+div p, div ul {
+  text-align: left;
+}
+
+.quote {
+  text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+.div1 {
+  background-color: #01BC6B;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  margin-bottom: 80px;
+  margin-top: 30px;
+  padding: 5px 5px 5px 5px;
+  border-radius: 10px;
+}
+
+.div3 {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-size: 1.5em;
+  color: white;
+}
+
+.div4 {
+  background-color: #002395;
+  text-align: center;
+  height: 30px;
+  font-family: pacifico;
+}
+
+.div5 {
+  background-color: black;
+  text-align: center;
+  height: 30px;
+  font-family: oswald;
+  font-weight: bold;
+}
+
+.div6 {
+  background-color: #DE3831;
+  text-align: center;
+  height: 30px;
+  font-family: Georgia;
+}
